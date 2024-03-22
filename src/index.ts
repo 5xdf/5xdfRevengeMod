@@ -30,5 +30,5 @@ export default async () => {
   unloads.push(await initPlugins());
 
   // We good :)
-  logger.log("Revenge is ready!");
+  logger.log("Revenge (MODDED - 5xdf) is ready!");
 };
